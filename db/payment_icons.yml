@@ -723,6 +723,10 @@
   label: Afterpay
   group: other
 -
+  name: afterpay_us
+  label: Afterpay US
+  group: other
+-
   name: clearpay
   label: Clearpay
   group: other
